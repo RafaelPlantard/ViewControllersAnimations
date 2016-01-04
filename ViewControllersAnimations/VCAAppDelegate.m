@@ -6,13 +6,13 @@
 //  Copyright © 2016 Data Empire. All rights reserved.
 //
 
-#import "AppDelegate.h"
+#import "VCAAppDelegate.h"
 
-@interface AppDelegate ()
+@interface VCAAppDelegate ()
 
 @end
 
-@implementation AppDelegate
+@implementation VCAAppDelegate
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {

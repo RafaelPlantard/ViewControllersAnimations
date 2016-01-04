@@ -6,13 +6,13 @@
 //  Copyright © 2016 Data Empire. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "VCAViewController.h"
 
-@interface ViewController ()
+@interface VCAViewController ()
 
 @end
 
-@implementation ViewController
+@implementation VCAViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
